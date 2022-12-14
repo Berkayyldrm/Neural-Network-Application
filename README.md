@@ -1,6 +1,8 @@
 # Neural-Network-Application
 YTU MSc Course HW
 
+Problems solved with the help of Keras library of Tensorflow
+
 ## PROBLEM 1
 
 ### CASE 1
